@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Iggy;McDonald;;;
+N:McDonald;Iggy;;;
 FN: Iggy McDonald 
 ORG:ImpleMentor;
 TITLE:Creative Problem Solver
 EMAIL;type=INTERNET;type=WORK;type=pref:info@iggymcdonald.com
 TEL;type=WORK;type=VOICE:+1 (716) 445 7852
-item1.ADR;type=WORK;type=pref:;; View\n\;;;;United States
+item1.ADR;type=WORK;type=pref:;;;;;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:iggymcdonald.com
 item2.X-ABLabel:_$!<HomePage>!$_
